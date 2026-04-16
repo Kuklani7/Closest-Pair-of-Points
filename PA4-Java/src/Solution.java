@@ -1,5 +1,3 @@
-package ub.cse.algo;
-
 import java.util.ArrayList;
 import java.util.List;
 
